@@ -1,4 +1,5 @@
 # Bash Init
+Find and replace username and repository text.   
 
 ## Directory Structure
 
@@ -15,3 +16,8 @@ o
 |-- install.sh
 `-- update.sh
 ```
+
+--- 
+
+## License
+[MIT License](LICENSE)   
