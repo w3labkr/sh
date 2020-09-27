@@ -30,10 +30,10 @@ find ./ -type f -name "*.sh" -exec chmod +x {} +
 
 # Print a welcome message.
 echo
-echo "Start installing repository installaion."
+echo "Installation begins."
 
 # ...
 
 # Print a completion message.
 echo
-echo "repository is completely installed."
+echo "Installation is complete."
