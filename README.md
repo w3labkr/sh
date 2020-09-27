@@ -1,5 +1,6 @@
 # Bash Init
-Find and replace username and repository text.   
+
+Find and replace username and repository text.
 
 ## Directory Structure
 
@@ -7,20 +8,19 @@ Find and replace username and repository text.
 o
 |-- centos
 |   `-- 8
-|       |-- bin
 |       |-- os
 |       `-- pkg
 |-- ubuntu
 |   `-- 20.04
-|       |-- bin
 |       |-- os
 |       `-- pkg
 |-- install.sh
 |-- uninstall.sh
-`-- update.sh
+|-- update.sh
+`-- upgrade.sh
 ```
 
---- 
+---
 
 ## License
-[MIT License](LICENSE)   
+[MIT License](LICENSE)
