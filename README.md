@@ -8,12 +8,15 @@ o
 |-- centos
 |   `-- 8
 |       |-- bin
+|       |-- os
 |       `-- pkg
 |-- ubuntu
 |   `-- 20.04
 |       |-- bin
+|       |-- os
 |       `-- pkg
 |-- install.sh
+|-- uninstall.sh
 `-- update.sh
 ```
 
